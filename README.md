@@ -20,9 +20,8 @@ Este proyecto proporciona una solución para conectar ETABS con sistemas externo
 
 ## 🛠️ Requisitos
 
-- ETABS v[versión]
-- Python 3.x (o el lenguaje que uses)
-- [Otros requisitos]
+- ETABS v21
+- Python 3.10
 
 ## 📦 Instalación
 
@@ -44,9 +43,6 @@ cd Conexi-n-Software-ETABS-MCP
 # [Agregar ejemplos de código cuando estén disponibles]
 ```
 
-## 📚 Documentación
-
-[Documentación adicional sobre el uso y configuración del proyecto]
 
 ## 🤝 Contribuciones
 
@@ -58,9 +54,7 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
 5. Abre un Pull Request
 
-## 📄 Licencia
 
-[Especifica la licencia de tu proyecto]
 
 ## 👤 Autor
 
