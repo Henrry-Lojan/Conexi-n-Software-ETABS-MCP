@@ -1,4 +1,4 @@
-# Conexión Software ETABS-MCP
+# Conection Software ETABS-MCP
 
 Proyecto de integración entre ETABS (Extended Three-dimensional Analysis of Building Systems) y MCP para automatizar procesos de análisis estructural y facilitar la transferencia de datos. 
 
