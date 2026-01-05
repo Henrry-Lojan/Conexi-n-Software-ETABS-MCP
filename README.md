@@ -1,1 +1,1 @@
-# Conexi-n-Software-ETABS-MCP
+# Conection Software ETABS-MCP
